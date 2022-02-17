@@ -30,13 +30,13 @@ See also implementation with [react-simple-chatbot](https://www.npmjs.com/packag
 
 ## Use Existing Chat Applications
 Commonly used applications include: <br />
-• Facebook Messenger
-• Slack
-• Telegram
-• Twilio
-• Google Hangout Chat
-• Microsoft Teams
-• Custom Websites
+• Facebook Messenger <br />
+• Slack <br />
+• Telegram <br />
+• Twilio <br />
+• Google Hangout Chat <br />
+• Microsoft Teams <br />
+• Custom Websites <br />
 
 [Example](https://api.slack.com/bot-users) of slack bot configuration.
 
@@ -55,13 +55,15 @@ RASA X setup <br />
 
 ## Use Custom React Interface with ConvAI platforms 
 Add chatbot component to custom websites using. Some options are: <br />
-• build chatbot component with [aws-lex-web-ui](https://github.com/aws-samples/aws-lex-web-ui)
-• build chatbot component with [rasa webchat](https://github.com/botfront/rasa-webchat)
+• build chatbot component with [aws-lex-web-ui](https://github.com/aws-samples/aws-lex-web-ui) <br />
+• build chatbot component with [rasa webchat](https://github.com/botfront/rasa-webchat) <br />
 
-rasa-webchat example
-• have rasa model running 
-• change the port number of socketUrl in /rasa-webchat-bot/src/App.js to the port where the rasa model is running
-• run `npm install` and `npm start` in the /rasa-webchat-bot folder to start interface with rasa bot component
+rasa-webchat example <br />
+• have rasa model running <br />
+• change the port number of socketUrl in /rasa-webchat-bot/src/App.js to the port where the rasa model is running <br />
+• run `npm install` and `npm start` in the /rasa-webchat-bot folder to start interface with rasa bot component <br />
+
+
 
 
 
